@@ -1,0 +1,8 @@
+google-generativeai
+transformers
+numpy
+chromadb
+sentence-transformers
+torch  # or tensorflow
+protobuf
+python-dotenv
